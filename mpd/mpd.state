@@ -1,0 +1,28 @@
+sw_volume: 100
+audio_device_state:0:My ALSA Device
+audio_device_state:1:My Pulse Output
+state: pause
+current: 2
+time: 0.000000
+random: 1
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Kana Hanazawa - Renai Circulation.mp3
+1:deemix Music/downloads/46 - LiSA - ADAMAS.mp3
+2:deemix Music/downloads/48 - LiSA - Unlasting.mp3
+3:deemix Music/downloads/50 - LiSA - Crossing Field.mp3
+4:deemix Music/downloads/09 - Linkin Park - In the End.mp3
+5:deemix Music/downloads/11 - Linkin Park - What I've Done.mp3
+6:deemix Music/downloads/06 - Avenged Sevenfold - A Little Piece of Heaven.mp3
+7:deemix Music/downloads/10 - Linkin Park - Numb.mp3
+8:deemix Music/downloads/04 - Green Day - 21 Guns.mp3
+9:deemix Music/downloads/05 - Green Day - Wake Me up When September Ends.mp3
+10:deemix Music/downloads/01 - Green Day - Boulevard of Broken Dreams.mp3
+11:deemix Music/downloads/12 - Tsuko G. - Gas Gas Gas (Initial D).mp3
+12:deemix Music/downloads/13 - Dave Rodgers - Deja Vu 2019 (Video Version).mp3
+playlist_end

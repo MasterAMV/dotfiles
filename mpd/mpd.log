@@ -1,0 +1,558 @@
+Dec 19 22:31 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 22:37 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 22:37 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 22:40 : player: played "Gold.mp3"
+Dec 19 22:41 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 22:44 : player: played "Gold.mp3"
+Dec 19 22:45 : exception: Failed to access /home/alpha02/Music/mpd: No such file or directory
+Dec 19 22:46 : player: played "Gold.mp3"
+Dec 19 22:46 : inotify: music directory was removed - cannot continue to watch it
+Dec 19 22:51 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 22:56 : update: added /Gold..mp3
+Dec 19 22:56 : update: added /Gold..webm
+Dec 19 22:56 : update: removing Gold..webm
+Dec 19 22:56 : update: updating /Gold..mp3
+Dec 19 22:57 : update: removing Gold..mp3
+Dec 19 22:58 : update: added /Gold.mp3
+Dec 19 22:58 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:01 : player: played "Gold.mp3"
+Dec 19 23:05 : exception: Failed to open '/home/alpha02/.config/mpd/playlists/playlist.m3u.m3u': No such file or directory
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:05 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:05 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:05 : player: problems opening audio device while playing "Gold.mp3"
+Dec 19 23:05 : exception: Failed to open '/home/alpha02/.config/mpd/playlists/playlist.m3u.m3u': No such file or directory
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:05 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:05 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:05 : exception: Failed to open '/home/alpha02/.config/mpd/playlists/playlist.m3u.m3u': No such file or directory
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:05 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:05 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:05 : exception: Failed to open '/home/alpha02/.config/mpd/playlists/playlist.m3u.m3u': No such file or directory
+Dec 19 23:05 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:05 : player: played "Gold.mp3"
+Dec 19 23:05 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:05 : player: played "Gold.mp3"
+Dec 19 23:05 : exception: Failed to open '/home/alpha02/.config/mpd/playlists/playlist.m3u.m3u': No such file or directory
+Dec 19 23:05 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:06 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:06 : player: played "Gold.mp3"
+Dec 19 23:06 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:07 : update: added songs/totallynotgold.mp3
+Dec 19 23:10 : player: played "Gold.mp3"
+Dec 19 23:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 19 23:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 19 23:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Dec 19 23:26 : update: added /Kana Hanazawa - Renai Circulation.mp3
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : player: problems opening audio device while playing "Kana Hanazawa - Renai Circulation.mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : player: played "Kana Hanazawa - Renai Circulation.mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : player: problems opening audio device while playing "Kana Hanazawa - Renai Circulation.mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : player: played "Kana Hanazawa - Renai Circulation.mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:47 : player: problems opening audio device while playing "Gold.mp3"
+Dec 19 23:48 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:48 : player: played "Gold.mp3"
+Dec 19 23:48 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:50 : update: updating /Gold.mp3
+Dec 19 23:51 : update: updating /Gold.mp3
+Dec 19 23:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:51 : update: removing Gold.mp3
+Dec 19 23:51 : update: added /The Captain - Gold.mp3
+Dec 19 23:52 : player: played "Gold.mp3"
+Dec 19 23:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:52 : update: updating /The Captain - Gold.mp3
+Dec 19 23:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:53 : update: removing songs/totallynotgold.mp3
+Dec 19 23:53 : player: played "Kana Hanazawa - Renai Circulation.mp3"
+Dec 19 23:54 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:55 : player: problems opening audio device while playing "Kana Hanazawa - Renai Circulation.mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 19 23:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 19 23:55 : player: played "Kana Hanazawa - Renai Circulation.mp3"
+Dec 19 23:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 23:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 20 00:01 : update: updating /The Captain - Gold.mp3
+Dec 20 00:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 20 00:28 : update: added deemix Music/downloads/01 - Green Day - Boulevard of Broken Dreams.mp3
+Dec 20 00:28 : update: added deemix Music/downloads/02 - Green Day - Wake Me up When September Ends.mp3
+Dec 20 00:28 : update: added deemix Music/downloads/03 - Green Day - American Idiot.mp3
+Dec 20 00:28 : update: added deemix Music/downloads/04 - Green Day - 21 Guns.mp3
+Dec 20 00:28 : update: updating deemix Music/downloads/01 - Green Day - Boulevard of Broken Dreams.mp3
+Dec 20 00:28 : update: added deemix Music/downloads/06 - Avenged Sevenfold - A Little Piece of Heaven.mp3
+Dec 20 00:28 : update: added deemix Music/downloads/05 - Green Day - Wake Me up When September Ends.mp3
+Dec 20 00:28 : update: updating deemix Music/downloads/02 - Green Day - Wake Me up When September Ends.mp3
+Dec 20 00:28 : update: updating deemix Music/downloads/04 - Green Day - 21 Guns.mp3
+Dec 20 00:28 : update: updating deemix Music/downloads/06 - Avenged Sevenfold - A Little Piece of Heaven.mp3
+Dec 20 00:28 : update: updating deemix Music/downloads/05 - Green Day - Wake Me up When September Ends.mp3
+Dec 20 00:28 : update: updating deemix Music/downloads/04 - Green Day - 21 Guns.mp3
+Dec 20 00:28 : update: updating deemix Music/downloads/06 - Avenged Sevenfold - A Little Piece of Heaven.mp3
+Dec 20 00:28 : update: updating deemix Music/downloads/05 - Green Day - Wake Me up When September Ends.mp3
+Dec 20 00:28 : update: added deemix Music/downloads/07 - Avenged Sevenfold - Buried Alive.mp3
+Dec 20 00:28 : update: added deemix Music/downloads/08 - Avenged Sevenfold - Bat Country.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/06 - Avenged Sevenfold - A Little Piece of Heaven.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/07 - Avenged Sevenfold - Buried Alive.mp3
+Dec 20 00:29 : update: added deemix Music/downloads/09 - Linkin Park - In the End.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/08 - Avenged Sevenfold - Bat Country.mp3
+Dec 20 00:29 : update: added deemix Music/downloads/10 - Linkin Park - Numb.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/07 - Avenged Sevenfold - Buried Alive.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/09 - Linkin Park - In the End.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/08 - Avenged Sevenfold - Bat Country.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/10 - Linkin Park - Numb.mp3
+Dec 20 00:29 : update: added deemix Music/downloads/11 - Linkin Park - What I've Done.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/07 - Avenged Sevenfold - Buried Alive.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/09 - Linkin Park - In the End.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/10 - Linkin Park - Numb.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/11 - Linkin Park - What I've Done.mp3
+Dec 20 00:29 : update: updating deemix Music/downloads/09 - Linkin Park - In the End.mp3
+Dec 20 00:29 : update: added deemix Music/downloads/12 - Tsuko G. - Gas Gas Gas (Initial D).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/10 - Linkin Park - Numb.mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/11 - Linkin Park - What I've Done.mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/12 - Tsuko G. - Gas Gas Gas (Initial D).mp3
+Dec 20 00:30 : update: added deemix Music/downloads/13 - Dave Rodgers - Deja Vu 2019 (Video Version).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/11 - Linkin Park - What I've Done.mp3
+Dec 20 00:30 : update: added deemix Music/downloads/14 - Ksi - Really Love (feat. Craig David & Digital Farm Animals).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/12 - Tsuko G. - Gas Gas Gas (Initial D).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/13 - Dave Rodgers - Deja Vu 2019 (Video Version).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/14 - Ksi - Really Love (feat. Craig David & Digital Farm Animals).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/12 - Tsuko G. - Gas Gas Gas (Initial D).mp3
+Dec 20 00:30 : update: added deemix Music/downloads/15 - Ksi - Houdini (feat. Swarmz & Tion Wayne).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/13 - Dave Rodgers - Deja Vu 2019 (Video Version).mp3
+Dec 20 00:30 : update: added deemix Music/downloads/17 - Ksi - Poppin (feat. Lil Pump & Smokepurpp).mp3
+Dec 20 00:30 : update: added deemix Music/downloads/16 - Ksi - Lamborghini.mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/14 - Ksi - Really Love (feat. Craig David & Digital Farm Animals).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/15 - Ksi - Houdini (feat. Swarmz & Tion Wayne).mp3
+Dec 20 00:30 : update: updating deemix Music/downloads/13 - Dave Rodgers - Deja Vu 2019 (Video Version).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/17 - Ksi - Poppin (feat. Lil Pump & Smokepurpp).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/16 - Ksi - Lamborghini.mp3
+Dec 20 00:31 : update: added deemix Music/downloads/18 - Fly By Nightcore - Angel With A Shotgun.mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/15 - Ksi - Houdini (feat. Swarmz & Tion Wayne).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/17 - Ksi - Poppin (feat. Lil Pump & Smokepurpp).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/16 - Ksi - Lamborghini.mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/18 - Fly By Nightcore - Angel With A Shotgun.mp3
+Dec 20 00:31 : update: added deemix Music/downloads/19 - Fly By Nightcore - Just a Dream (Switching Vocals).mp3
+Dec 20 00:31 : update: added deemix Music/downloads/20 - Fly By Nightcore - Counting Stars (Switching Vocals).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/17 - Ksi - Poppin (feat. Lil Pump & Smokepurpp).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/18 - Fly By Nightcore - Angel With A Shotgun.mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/19 - Fly By Nightcore - Just a Dream (Switching Vocals).mp3
+Dec 20 00:31 : update: added deemix Music/downloads/21 - Fly By Nightcore - Attention (Switching Vocals).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/20 - Fly By Nightcore - Counting Stars (Switching Vocals).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/18 - Fly By Nightcore - Angel With A Shotgun.mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/19 - Fly By Nightcore - Just a Dream (Switching Vocals).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/21 - Fly By Nightcore - Attention (Switching Vocals).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/20 - Fly By Nightcore - Counting Stars (Switching Vocals).mp3
+Dec 20 00:31 : update: added deemix Music/downloads/23 - Fly By Nightcore - Be Alright.mp3
+Dec 20 00:31 : update: added deemix Music/downloads/22 - Fly By Nightcore - Something Just Like This.mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/19 - Fly By Nightcore - Just a Dream (Switching Vocals).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/21 - Fly By Nightcore - Attention (Switching Vocals).mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/23 - Fly By Nightcore - Be Alright.mp3
+Dec 20 00:31 : update: updating deemix Music/downloads/22 - Fly By Nightcore - Something Just Like This.mp3
+Dec 20 00:31 : update: added deemix Music/downloads/24 - Fly By Nightcore - Lightning.mp3
+Dec 20 00:32 : update: added deemix Music/downloads/26 - Manian - Welcome to the Club (Nightcore Edit).mp3
+Dec 20 00:32 : update: added deemix Music/downloads/25 - Cascada - Everytime We Touch (Nightcore Edit).mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/23 - Fly By Nightcore - Be Alright.mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/22 - Fly By Nightcore - Something Just Like This.mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/24 - Fly By Nightcore - Lightning.mp3
+Dec 20 00:32 : update: added deemix Music/downloads/27 - ItaloBrothers - Stamp on the Ground (Nightcore Edit).mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/26 - Manian - Welcome to the Club (Nightcore Edit).mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/25 - Cascada - Everytime We Touch (Nightcore Edit).mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/24 - Fly By Nightcore - Lightning.mp3
+Dec 20 00:32 : update: added deemix Music/downloads/28 - Nightcore - God Is A Girl.mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/27 - ItaloBrothers - Stamp on the Ground (Nightcore Edit).mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/26 - Manian - Welcome to the Club (Nightcore Edit).mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/25 - Cascada - Everytime We Touch (Nightcore Edit).mp3
+Dec 20 00:32 : update: added deemix Music/downloads/29 - Nightcore - Monster (DotEXE Remix).mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/28 - Nightcore - God Is A Girl.mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/27 - ItaloBrothers - Stamp on the Ground (Nightcore Edit).mp3
+Dec 20 00:32 : update: updating deemix Music/downloads/29 - Nightcore - Monster (DotEXE Remix).mp3
+Dec 20 00:32 : update: added deemix Music/downloads/30 - Fly By Nightcore - Darkside (Switching Vocals).mp3
+Dec 20 00:33 : update: added deemix Music/downloads/31 - Fly By Nightcore - A Thousand Years.mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/28 - Nightcore - God Is A Girl.mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/29 - Nightcore - Monster (DotEXE Remix).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/30 - Fly By Nightcore - Darkside (Switching Vocals).mp3
+Dec 20 00:33 : update: added deemix Music/downloads/32 - Fly By Nightcore - I'm A Mess (Switching Vocals).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/31 - Fly By Nightcore - A Thousand Years.mp3
+Dec 20 00:33 : update: added deemix Music/downloads/33 - Fly By Nightcore - Sweet but Psycho.mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/30 - Fly By Nightcore - Darkside (Switching Vocals).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/32 - Fly By Nightcore - I'm A Mess (Switching Vocals).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/31 - Fly By Nightcore - A Thousand Years.mp3
+Dec 20 00:33 : update: added deemix Music/downloads/34 - Fly By Nightcore - rockstar.mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/33 - Fly By Nightcore - Sweet but Psycho.mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/32 - Fly By Nightcore - I'm A Mess (Switching Vocals).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/31 - Fly By Nightcore - A Thousand Years.mp3
+Dec 20 00:33 : update: added deemix Music/downloads/37 - Fly By Nightcore - Let Me Love You (Switching Vocals).mp3
+Dec 20 00:33 : update: added deemix Music/downloads/35 - Fly By Nightcore - See You Again (Nightcore Rock Remix).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/34 - Fly By Nightcore - rockstar.mp3
+Dec 20 00:33 : update: added deemix Music/downloads/36 - Fly By Nightcore - Love Me Like You Do.mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/37 - Fly By Nightcore - Let Me Love You (Switching Vocals).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/35 - Fly By Nightcore - See You Again (Nightcore Rock Remix).mp3
+Dec 20 00:33 : update: added deemix Music/downloads/38 - Fly By Nightcore - Girls Like You (Switching Vocals).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/36 - Fly By Nightcore - Love Me Like You Do.mp3
+Dec 20 00:33 : update: added deemix Music/downloads/40 - Fly By Nightcore - We Are Young (Switching Vocals).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/35 - Fly By Nightcore - See You Again (Nightcore Rock Remix).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/38 - Fly By Nightcore - Girls Like You (Switching Vocals).mp3
+Dec 20 00:33 : update: updating deemix Music/downloads/36 - Fly By Nightcore - Love Me Like You Do.mp3
+Dec 20 00:33 : update: added deemix Music/downloads/39 - Fly By Nightcore - Beauty And A Beat (Switching Vocals).mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/40 - Fly By Nightcore - We Are Young (Switching Vocals).mp3
+Dec 20 00:34 : update: added deemix Music/downloads/41 - Nightcore Reality - Centuries.mp3
+Dec 20 00:34 : update: added deemix Music/downloads/42 - Nightcore Reality - Take a Hint.mp3
+Dec 20 00:34 : update: added deemix Music/downloads/43 - Raon Lee - SWORD ART ONLINE Op 1 - CROSSING FIELD.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/36 - Fly By Nightcore - Love Me Like You Do.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/39 - Fly By Nightcore - Beauty And A Beat (Switching Vocals).mp3
+Dec 20 00:34 : update: added deemix Music/downloads/45 - Eir Aoi - Ignite.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/41 - Nightcore Reality - Centuries.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/42 - Nightcore Reality - Take a Hint.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/43 - Raon Lee - SWORD ART ONLINE Op 1 - CROSSING FIELD.mp3
+Dec 20 00:34 : update: added deemix Music/downloads/44 - Amalee - Cruel Angel's Thesis (From _Neon Genesis Evangelion_).mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/45 - Eir Aoi - Ignite.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/41 - Nightcore Reality - Centuries.mp3
+Dec 20 00:34 : update: added deemix Music/downloads/46 - LiSA - ADAMAS.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/44 - Amalee - Cruel Angel's Thesis (From _Neon Genesis Evangelion_).mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/45 - Eir Aoi - Ignite.mp3
+Dec 20 00:34 : update: added deemix Music/downloads/48 - LiSA - Unlasting.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/41 - Nightcore Reality - Centuries.mp3
+Dec 20 00:34 : update: added deemix Music/downloads/47 - Eir Aoi - Innocence.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/46 - LiSA - ADAMAS.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/48 - LiSA - Unlasting.mp3
+Dec 20 00:34 : update: added deemix Music/downloads/49 - LiSA - Gurenge.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/47 - Eir Aoi - Innocence.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/46 - LiSA - ADAMAS.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/48 - LiSA - Unlasting.mp3
+Dec 20 00:34 : update: added deemix Music/downloads/50 - LiSA - Crossing Field.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/49 - LiSA - Gurenge.mp3
+Dec 20 00:34 : update: updating deemix Music/downloads/47 - Eir Aoi - Innocence.mp3
+Dec 20 00:35 : update: updating deemix Music/downloads/50 - LiSA - Crossing Field.mp3
+Dec 20 00:35 : update: updating deemix Music/downloads/47 - Eir Aoi - Innocence.mp3
+Dec 20 00:35 : update: updating deemix Music/downloads/47 - Eir Aoi - Innocence.mp3
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:36 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:37 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:38 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:38 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:38 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:38 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:39 : player: played "deemix Music/downloads/33 - Fly By Nightcore - Sweet but Psycho.mp3"
+Dec 20 00:51 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:51 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:51 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:52 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:52 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:52 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:52 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:52 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:52 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:53 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:53 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : player: played "Kana Hanazawa - Renai Circulation.mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : player: problems opening audio device while playing "The Captain - Gold.mp3"
+Dec 20 00:55 : exception: All audio outputs are disabled
+Dec 20 00:55 : exception: All audio outputs are disabled
+Dec 20 00:55 : exception: All audio outputs are disabled
+Dec 20 00:55 : exception: All audio outputs are disabled
+Dec 20 00:55 : exception: All audio outputs are disabled
+Dec 20 00:55 : exception: All audio outputs are disabled
+Dec 20 00:55 : exception: All audio outputs are disabled
+Dec 20 00:55 : exception: All audio outputs are disabled
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:55 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:56 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:56 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : player: played "The Captain - Gold.mp3"
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : player: played "The Captain - Gold.mp3"
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:58 : player: problems opening audio device while playing "deemix Music/downloads/01 - Green Day - Boulevard of Broken Dreams.mp3"
+Dec 20 00:58 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:59 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:59 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:59 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:59 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:59 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:59 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:59 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:59 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:59 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:59 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:59 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:59 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:59 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:59 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 00:59 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 00:59 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 01:00 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 01:00 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 01:00 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 01:00 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 01:00 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 01:00 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 01:00 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 01:00 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 01:00 : exception: Failed to enable output "My Pulse Output" (pulse); pa_context_connect() has failed: Connection refused
+Dec 20 01:00 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 20 01:00 : player: played "deemix Music/downloads/01 - Green Day - Boulevard of Broken Dreams.mp3"
+Dec 20 01:01 : player: played "The Captain - Gold.mp3"
+Dec 20 01:09 : player: played "deemix Music/downloads/46 - LiSA - ADAMAS.mp3"
+Dec 20 01:14 : player: played "deemix Music/downloads/50 - LiSA - Crossing Field.mp3"
+Dec 20 01:19 : player: played "deemix Music/downloads/04 - Green Day - 21 Guns.mp3"
+Dec 20 01:26 : player: played "deemix Music/downloads/13 - Dave Rodgers - Deja Vu 2019 (Video Version).mp3"

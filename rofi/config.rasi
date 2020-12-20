@@ -1,0 +1,18 @@
+configuration {
+	modi: "window,run,drun";
+	lines: 7;
+	font: "SauceCodePro Nerd Font Medium 12";
+	bw: 0;
+	padding: 0;
+	show-icons: true;
+	drun-display-format: "{icon}  {name}";
+	matching: "fuzzy";
+	line-margin: 0;
+	line-padding: 10;
+	separator-style: "none";
+	hide-scrollbar: true;
+	theme: "/home/alpha02/.config/rofi/black-moon.rasi";
+	display-window: " ";
+	display-run: " ";
+	display-drun: " ";
+}
