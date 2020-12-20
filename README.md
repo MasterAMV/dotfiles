@@ -2,8 +2,8 @@
 
 these are my epic dotfiles.
 
-Distro: Arch
-WM: i3
+Distro: Arch\n
+WM: i3\n
 menu: rofi
 music player: mpd
 bar: polybar
