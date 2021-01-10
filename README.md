@@ -2,7 +2,7 @@
 
 ## System information
 
-* Linux Disro: [Arch Linux](https://www.archlinux.org/)
+* Linux Distro: [Arch Linux](https://www.archlinux.org/)
 * Window Manager: [i3](https://i3wm.org/)
 * Launcher: [rofi](https://github.com/davatorium/rofi)
 * Music player: [mpd](https://www.musicpd.org/)
