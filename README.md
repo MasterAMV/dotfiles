@@ -23,4 +23,4 @@
 
 ## Inspiration and stuff that I copied
 
-I took some inspiration from r/unixporn and i got some ideas / copied some stuff from https://github.com/b4skyx/dotfiles and https://github.com/Mahmoudk1000/Dotfiles.I took some inspiration from r/unixporn and i got some ideas / copied some stuff from https://github.com/b4skyx/dotfiles and https://github.com/Mahmoudk1000/Dotfiles.
+I took some inspiration from r/unixporn and i got some ideas / copied some stuff from https://github.com/b4skyx/dotfiles and https://github.com/Mahmoudk1000/Dotfiles.
